@@ -1,5 +1,5 @@
 # kiryuu-clone
-Download Manga, Manhwa, etc Based on Kiryuu.id
+Kiryuu.id, comic scraper, Manga, Manhwa, and Manhua!
 Features:
 - Single Download: download per 1 chapter
 - Mass: download all of the chapter.
