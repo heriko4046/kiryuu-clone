@@ -6,7 +6,7 @@ import img2pdf
 import threading
 from urllib.parse import urlparse
 
-class Shinigami:
+class Kiryuu:
     def __init__(self):
         self.api = r.Session()
         self.headers = {
@@ -102,7 +102,7 @@ class Shinigami:
             return path_parts[-1]
 
 if __name__ == "__main__":
-    bot = Shinigami()
+    bot = Kiryuu()
     os.system('cls')
     choice = input(' 1. Single Download \n 2. Mass Download \n Pilihan: ')
     if choice == '1':
